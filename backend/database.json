@@ -1,0 +1,50 @@
+{
+    "users": [
+        {
+            "id": 0,
+            "name": "Rodrigo Rahman",
+            "email": "rodrigorahman@academiadoflutter.com.br",
+            "password": "123"
+        }
+    ],
+    "candidato": [
+        {
+            "id": 1,
+            "Nome": "Ricardo de Sousa Lemes Filho",
+            "telefone": "62999467003",
+            "cidade": "goiania",
+            "uf": "Go",
+            "empresas": [
+                {
+                    "id": 1,
+                    "Nome": "Totvs",
+                    "funcao": "Analista de Desenvolvimento",
+                    "atividades": [
+                        "Atuar como desenvolvedor de Software usando o PLSQL e Delphi. Uso Git , Jira."
+                    ]
+                },
+                {
+                    "id": 2,
+                    "Nome": "Gipi Sistemas",
+                    "funcao": "Analista de Suporte",
+                    "atividades": [
+                        "Atuar como desenvolvedor de Software usando o PLSQL e Delphi. Uso Git , Jira."
+                    ]
+                },
+                {
+                    "id": 3,
+                    "Nome": "Mr Veiculos",
+                    "funcao": "Serviço Geral (banco, contrato)",
+                    "atividades": [
+                        "Atuar como desenvolvedor de Software usando o PLSQL e Delphi. Uso Git , Jira."
+                    ]
+                }
+            ]
+        }
+    ],
+    "saudacao": [
+        {
+            "mensagem": "Seja muito bem vindo a minha página: Aqui quero demostra a minha trajetoria, um pouco mais do ricardo. Sou formado em sistmas de informação tenho pós em Gestão de sistema  de Informação e atualmente trabalho com Desenvolvimento de sitemas  "
+        }
+    ]
+}
